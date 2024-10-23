@@ -1,4 +1,4 @@
-# pia_curso2425
+# Programación de Inteligencia Artificia
 
 **UT 1**. Introducción a la programación de IA
 
